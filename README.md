@@ -1,2 +1,3 @@
-# Dissertacao-IPEA-MPPPD-2021
-# Serão postados nesse repositório todos os arquivos adcionais da minha Dissertação do Mestrado  do IPEA  2021:
+# Dissertacao de Mestrado
+# Material Complementar
+# Serão postados nesse repositório arquivos adicionais da minha Dissertação do MPPPD do IPEA 2021.
