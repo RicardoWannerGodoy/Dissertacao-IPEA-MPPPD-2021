@@ -1,3 +1,3 @@
 # Repositório Online de Arquivos 
-# Materiais da Dissertação & Complementar
-# Serão postados nesse repositório todos os arquivos referente a minha Dissertação do MPPPD do IPEA 2021.
+# Materiais Principais & Complementares
+# Estão postados neste "Repositório Online" todos os Materiais Principais e Complementares referentes a minha Dissertação do MPPPD do IPEA 2021.
